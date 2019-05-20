@@ -1,3 +1,36 @@
+@font-face {
+font-family: "Oroban-Elegans";
+src: url("css/fonts/Oroban-Elegans.eot");
+src:
+url("css/fonts/Oroban-Elegans.woff") format("woff"),
+url("css/fonts/Oroban-Elegans.otf") format("opentype"),
+}
+
+@font-face {
+font-family: "Oroban-ElegansItalic";
+src: url("css/fonts/Oroban-ElegansItalic.eot");
+src:
+url("css/fonts/Oroban-ElegansItalic.woff") format("woff"),
+url("css/fonts/Oroban-ElegansItalic.otf") format("opentype"),
+}
+
+@font-face {
+font-family: "Inferi-Light";
+src: url("css/fonts/Inferi-Light.eot");
+src:
+url("css/fonts/Inferi-Light.woff") format("woff"),
+url("css/fonts/Inferi-Light.otf") format("opentype"),
+}
+
+@font-face {
+font-family: "Inferi-LightItalic";
+src: url("css/fonts/Inferi-LightItalic.eot");
+src:
+url("css/fonts/Inferi-LightItalic.woff") format("woff"),
+url("css/fonts/Inferi-LightItalic.otf") format("opentype"),
+}
+
+
 body {
   background-color: black;
 
@@ -16,9 +49,7 @@ div {
   display: block;
   position: inherit;
   margin: inherit;
-  top: 80px;
-  left: 56px;
-  width: auto;
+  max-width: justify;
   color: white;
 }
 
@@ -27,10 +58,10 @@ div {
   display: block;
   position: inherit;
   margin: auto;
-  width: 500px;
+  max-width: 500px;
   height: 200px;
   line-height: 12px;
-  text-align: center;
+  text-align: justify;
   color: white;
 
 }
@@ -42,7 +73,7 @@ div {
   margin: auto;
   width: 500px;
   height: inherit;
-  text-align: center;
+  text-align: justify;
   color: white;
 
 }
@@ -64,7 +95,7 @@ div {
   position: inherit;
   margin: auto;
   width: auto;
-  height: 200px;
+  height: 100px;
   line-height: 15px;
   color: white;
 }
@@ -85,7 +116,7 @@ div {
   position: inherit;
   margin: auto;
   height: inherit;
-  text-align: right;
+  text-align: center;
   color: white;
 }
 
@@ -95,7 +126,7 @@ div {
 
 
 .hapworthfont{
-    font-family: Oroban;
+    font-family: Oroban-Elegans;
     font-size: 55px;
     text-align: center;
 
@@ -110,18 +141,18 @@ div {
 }
 
 .font3{
-    font-family: oroban;
+    font-family: Oroban-Elegans;
     font-size: 15px;
 }
 
 .font4{
-    font-family: Inferi;
+    font-family: Oroban-ElegansItalic;
     font-size: 15px;
 
 }
 
 .font5{
-    font-family: oroban;
+    font-family: Oroban-Elegans;
     font-size: 30px;
 
 }
@@ -133,11 +164,11 @@ div {
 }
 
 .foot{
-    font-family: oroban;
+    font-family: Oroban-Elegans;
     font-size: 15px;
 
 }
 p{
-  font-family: Inferi;
-  font-size: 50px;
+  font-family: Inferi-Light;
+  font-size: 30px;
 }
