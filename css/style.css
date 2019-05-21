@@ -49,8 +49,19 @@ div {
   display: block;
   position: inherit;
   margin: inherit;
-  max-width: justify;
+  max-width: 700px;
   color: white;
+}
+
+#image {
+
+  display: flex;
+  max-width: justify;
+  position: fixed;
+  top: 0px;
+  left: 300px;
+  width: 120px;
+
 }
 
 #descriptive-text {
