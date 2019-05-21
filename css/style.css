@@ -1,7 +1,7 @@
 
 @font-face {
-font-family: "Oroban";
-src: url("Oroban-Elegans.ttf");
+font-family: "Oroban-Elegans";
+src: url("https://github.com/ya1sec/hapworth/tree/master/fonts/Oroban-Elegans.ttf");
 src:
 url("https://hapworth.studio/fonts/Oroban-Elegans.woff") format("woff"),
 url("https://hapworth.studio/fonts/Oroban-Elegans.woff2") format("woff2"),
@@ -157,7 +157,7 @@ div {
 
 
 .hapworthfont{
-    font-family: Oroban;
+    font-family: Oroban-Elegans;
     font-size: 30px;
     text-align: center;
 
