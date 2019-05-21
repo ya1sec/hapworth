@@ -1,11 +1,11 @@
 
 @font-face {
 font-family: "Oroban-Elegans";
-src: url("fonts/Oroban-Elegans.woff");
+src: url("Oroban-Elegans.woff");
 src:
-url("fonts/Oroban-ElegansItalic.ttf") format("truetype"),
-url("fonts/Oroban-ElegansItalic.woff2") format("woff2"),
-url("fonts/Oroban-ElegansItalic.otf") format("opentype"),
+url("Oroban-Elegans.ttf") format("truetype"),
+url("Oroban-Elegans.woff2") format("woff2"),
+url("Oroban-Elegans.otf") format("opentype"),
 
 }
 
