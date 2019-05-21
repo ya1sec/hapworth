@@ -51,14 +51,24 @@ div {
   color: white;
 }
 
+#logo {
+
+  display: block;
+  max-width: justify;
+  position: static;
+  left: auto;
+  width: justify;
+
+}
+
+
 #image {
 
   display: flex;
-  max-width: justify;
   position: fixed;
-  top: 0px;
+  top: 10px;
   left: 300px;
-  width: 120px;
+  width: justify;
 
 }
 
