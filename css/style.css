@@ -3,9 +3,9 @@
 font-family: "Oroban-Elegans";
 src: url("https://github.com/ya1sec/hapworth/tree/master/fonts/Oroban-Elegans.ttf");
 src:
-url("https://hapworth.studio/fonts/Oroban-Elegans.woff") format("woff"),
-url("https://hapworth.studio/fonts/Oroban-Elegans.woff2") format("woff2"),
-url("https://hapworth.studio/fonts/Oroban-Elegans.otf") format("opentype"),
+url("https://github.com/ya1sec/hapworth/tree/master/fonts/Oroban-Elegans.woff") format("woff"),
+url("https://github.com/ya1sec/hapworth/tree/master/fonts/Oroban-Elegans.woff2") format("woff2"),
+url("https://github.com/ya1sec/hapworth/tree/master/fonts/Oroban-Elegans.otf") format("opentype"),
 
 }
 
