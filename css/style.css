@@ -1,6 +1,6 @@
 @font-face {
 font-family: "Oroban-Elegans";
-src: url("css/fonts/Oroban-Elegans.eot");
+src: url("css/fonts/Oroban-Elegans.otf");
 src:
 url("css/fonts/Oroban-Elegans.woff") format("woff"),
 url("css/fonts/Oroban-Elegans.otf") format("opentype"),
@@ -8,7 +8,7 @@ url("css/fonts/Oroban-Elegans.otf") format("opentype"),
 
 @font-face {
 font-family: "Oroban-ElegansItalic";
-src: url("css/fonts/Oroban-ElegansItalic.eot");
+src: url("css/fonts/Oroban-ElegansItalic.otf");
 src:
 url("css/fonts/Oroban-ElegansItalic.woff") format("woff"),
 url("css/fonts/Oroban-ElegansItalic.otf") format("opentype"),
@@ -16,7 +16,7 @@ url("css/fonts/Oroban-ElegansItalic.otf") format("opentype"),
 
 @font-face {
 font-family: "Inferi-Light";
-src: url("css/fonts/Inferi-Light.eot");
+src: url("css/fonts/Inferi-Light.otf");
 src:
 url("css/fonts/Inferi-Light.woff") format("woff"),
 url("css/fonts/Inferi-Light.otf") format("opentype"),
@@ -24,7 +24,7 @@ url("css/fonts/Inferi-Light.otf") format("opentype"),
 
 @font-face {
 font-family: "Inferi-LightItalic";
-src: url("css/fonts/Inferi-LightItalic.eot");
+src: url("css/fonts/Inferi-LightItalic.otf");
 src:
 url("css/fonts/Inferi-LightItalic.woff") format("woff"),
 url("css/fonts/Inferi-LightItalic.otf") format("opentype"),
