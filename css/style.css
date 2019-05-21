@@ -88,10 +88,11 @@ div {
   display: block;
   position: inherit;
   margin: auto;
-  max-width: 500px;
+  max-width: inherit;
   height: 200px;
-  line-height: 12px;
-  text-align: justify;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
   color: white;
 
 }
@@ -176,8 +177,9 @@ div {
 }
 
 .font4{
-    font-family: Oroban-ElegansItalic;
-    font-size: 15px;
+    font-family: helvetica;
+    font-size: 12px;
+    font-weight: 600;
 
 }
 
