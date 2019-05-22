@@ -59,7 +59,7 @@ div {
   display: block;
   position: inherit;
   margin: inherit;
-  max-width: 200px;
+  max-width: 300px;
   color: white;
 }
 
@@ -90,7 +90,7 @@ div {
   position: inherit;
   margin: auto;
   max-width: inherit;
-  height: auto;
+  height: 100px;
   line-height: 15px;
   text-align: center;
   text-transform: uppercase;
