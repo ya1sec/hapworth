@@ -89,7 +89,7 @@ div {
   position: inherit;
   margin: auto;
   max-width: inherit;
-  height: 100px;
+  height: auto;
   line-height: 15px;
   text-align: center;
   text-transform: uppercase;
