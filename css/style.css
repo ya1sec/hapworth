@@ -89,7 +89,7 @@ div {
   position: inherit;
   margin: auto;
   max-width: inherit;
-  height: 200px;
+  height: 50px;
   line-height: 15px;
   text-align: center;
   text-transform: uppercase;
@@ -150,10 +150,6 @@ div {
   text-align: center;
   color: white;
 }
-
-
-
-
 
 
 .hapworthfont{
