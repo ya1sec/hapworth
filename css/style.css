@@ -59,7 +59,7 @@ div {
   display: block;
   position: inherit;
   margin: inherit;
-  max-width: 400px;
+  max-width: 200px;
   color: white;
 }
 
@@ -68,7 +68,8 @@ div {
   display: block;
   max-width: justify;
   position: inherit;
-  left: 200px;
+  margin-left: auto;
+  margin-right: auto;
   width: auto;
 
 }
@@ -154,7 +155,7 @@ div {
 
 .hapworthfont{
     font-family: Oroban-Elegans;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
 
 
@@ -168,13 +169,13 @@ div {
 }
 
 .font3{
-    font-family: Inferi-Light;
-    font-size: 15px;
+    font-family: Inferi-LightItalic;
+    font-size: 12px;
 }
 
 .font4{
     font-family: helvetica;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 600;
 
 }
@@ -187,18 +188,18 @@ div {
 
 .font6{
     font-family: Inferi-Light;
-    font-size: 18px;
+    font-size: 12px;
 
 }
 
 
 
 .foot{
-    font-family: Oroban-Elegans;
-    font-size: 15px;
+    font-family: Inferi-LightItalic;
+    font-size: 12px;
 
 }
 p{
   font-family: Inferi-Light;
-  font-size: 18px;
+  font-size: 12px;
 }
